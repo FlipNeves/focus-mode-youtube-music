@@ -27,7 +27,7 @@ Nothing else is collected, sold, transferred or used for advertising, profiling 
 
 ## Contact
 
-Questions or requests: open an issue at <https://github.com/FlipNeves/ytbMusicExtension/issues>.
+Questions or requests: open an issue at <https://github.com/FlipNeves/focus-mode-youtube-music/issues>.
 
 ---
 
@@ -60,4 +60,4 @@ Nada mais é coletado, vendido, transferido ou usado para publicidade, criação
 
 ## Contato
 
-Dúvidas ou pedidos: abra uma issue em <https://github.com/FlipNeves/ytbMusicExtension/issues>.
+Dúvidas ou pedidos: abra uma issue em <https://github.com/FlipNeves/focus-mode-youtube-music/issues>.

@@ -117,7 +117,7 @@ The keyboard shortcut can be changed at `edge://extensions/shortcuts` (or `chrom
 ## 🏗️ Architecture
 
 ```
-ytbMusicExtension/
+focus-mode-youtube-music/
 ├── react-app/                    # Main application
 │   ├── branding/                 # Icon sources: icon.svg (32 px and up), icon-16.svg (PNGs live in public/)
 │   ├── options.html              # Options page entry
@@ -174,8 +174,8 @@ The content script is built separately as a single IIFE: scripts declared in the
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/FlipNeves/ytbMusicExtension.git
-   cd ytbMusicExtension/react-app
+   git clone https://github.com/FlipNeves/focus-mode-youtube-music.git
+   cd focus-mode-youtube-music/react-app
    ```
 
 2. **Install dependencies:**
@@ -218,7 +218,7 @@ The extension is available in the extension stores:
 
 **Chrome, Brave, Opera and other Chromium browsers (manual install):**
 
-1. Download the `.zip` from the [latest release](https://github.com/FlipNeves/ytbMusicExtension/releases/latest)
+1. Download the `.zip` from the [latest release](https://github.com/FlipNeves/focus-mode-youtube-music/releases/latest)
 2. Extract it to a folder you will keep (the extension stops working if the folder is deleted)
 3. Go to `chrome://extensions` and enable **Developer mode**
 4. Click on **Load unpacked** and select the extracted `dist` folder
